@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eZ3fzu5UxhWSQTuTXLGexxcn+vdzzFf8kuPR9QdCqiw=",
+  "Source": "Beam.Services.CouponAPI",
+  "BasePath": "_content/Beam.Services.CouponAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

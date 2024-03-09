@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NhPXNDgJRrn9vgWlciRJMdvYx12Q1AAr1SSZspe9eHs=",
+  "Source": "Beam.Services.AuthAPI",
+  "BasePath": "_content/Beam.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

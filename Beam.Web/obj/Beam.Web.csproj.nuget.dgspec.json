@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Personal\\PROJECTS\\Programming\\.NET Microservices Udemy course\\Beam\\Beam.Web\\Beam.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Personal\\PROJECTS\\Programming\\.NET Microservices Udemy course\\Beam\\Beam.Web\\Beam.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\PROJECTS\\Programming\\.NET Microservices Udemy course\\Beam\\Beam.Web\\Beam.Web.csproj",
+        "projectName": "Beam.Web",
+        "projectPath": "C:\\Personal\\PROJECTS\\Programming\\.NET Microservices Udemy course\\Beam\\Beam.Web\\Beam.Web.csproj",
+        "packagesPath": "C:\\Users\\Beam\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\PROJECTS\\Programming\\.NET Microservices Udemy course\\Beam\\Beam.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Beam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

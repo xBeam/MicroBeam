@@ -1,0 +1,36 @@
+C:\Users\Beam\source\repos\Mango\Mango.MessageBus\bin\Debug\net8.0\Beam.MessageBus.deps.json
+C:\Users\Beam\source\repos\Mango\Mango.MessageBus\bin\Debug\net8.0\Beam.MessageBus.dll
+C:\Users\Beam\source\repos\Mango\Mango.MessageBus\bin\Debug\net8.0\Beam.MessageBus.pdb
+C:\Users\Beam\source\repos\Mango\Mango.MessageBus\obj\Debug\net8.0\Beam.MessageBus.csproj.AssemblyReference.cache
+C:\Users\Beam\source\repos\Mango\Mango.MessageBus\obj\Debug\net8.0\Beam.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beam\source\repos\Mango\Mango.MessageBus\obj\Debug\net8.0\Beam.MessageBus.AssemblyInfoInputs.cache
+C:\Users\Beam\source\repos\Mango\Mango.MessageBus\obj\Debug\net8.0\Beam.MessageBus.AssemblyInfo.cs
+C:\Users\Beam\source\repos\Mango\Mango.MessageBus\obj\Debug\net8.0\Beam.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\Beam\source\repos\Mango\Mango.MessageBus\obj\Debug\net8.0\Beam.MessageBus.dll
+C:\Users\Beam\source\repos\Mango\Mango.MessageBus\obj\Debug\net8.0\refint\Beam.MessageBus.dll
+C:\Users\Beam\source\repos\Mango\Mango.MessageBus\obj\Debug\net8.0\Beam.MessageBus.pdb
+C:\Users\Beam\source\repos\Mango\Mango.MessageBus\obj\Debug\net8.0\ref\Beam.MessageBus.dll
+C:\Users\Beam\source\repos\Beam\Beam.MessageBus\bin\Debug\net8.0\Beam.MessageBus.deps.json
+C:\Users\Beam\source\repos\Beam\Beam.MessageBus\bin\Debug\net8.0\Beam.MessageBus.dll
+C:\Users\Beam\source\repos\Beam\Beam.MessageBus\bin\Debug\net8.0\Beam.MessageBus.pdb
+C:\Users\Beam\source\repos\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.csproj.AssemblyReference.cache
+C:\Users\Beam\source\repos\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beam\source\repos\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.AssemblyInfoInputs.cache
+C:\Users\Beam\source\repos\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.AssemblyInfo.cs
+C:\Users\Beam\source\repos\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\Beam\source\repos\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.dll
+C:\Users\Beam\source\repos\Beam\Beam.MessageBus\obj\Debug\net8.0\refint\Beam.MessageBus.dll
+C:\Users\Beam\source\repos\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.pdb
+C:\Users\Beam\source\repos\Beam\Beam.MessageBus\obj\Debug\net8.0\ref\Beam.MessageBus.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\bin\Debug\net8.0\Beam.MessageBus.deps.json
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\bin\Debug\net8.0\Beam.MessageBus.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\bin\Debug\net8.0\Beam.MessageBus.pdb
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.csproj.AssemblyReference.cache
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.AssemblyInfoInputs.cache
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.AssemblyInfo.cs
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.csproj.CoreCompileInputs.cache
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\obj\Debug\net8.0\refint\Beam.MessageBus.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.pdb
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\obj\Debug\net8.0\ref\Beam.MessageBus.dll

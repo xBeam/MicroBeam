@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6xJhJoC0o53MTVabV1iGfqEdH/O1WHcye3bDCn34QII=",
+  "Source": "Beam.Services.ProductAPI",
+  "BasePath": "_content/Beam.Services.ProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

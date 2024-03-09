@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F8J/TUPEyyX7DS7qWOovbnhE0wpqlvzAgJHM3+alCDE=",
+  "Source": "Beam.Services.RewardAPI",
+  "BasePath": "_content/Beam.Services.RewardAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,117 @@
+C:\Users\Beam\source\repos\Mango\Mango.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Beam\source\repos\Mango\Mango.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\Beam\source\repos\Mango\Mango.Web\bin\Debug\net8.0\Beam.Web.staticwebassets.runtime.json
+C:\Users\Beam\source\repos\Mango\Mango.Web\bin\Debug\net8.0\Beam.Web.exe
+C:\Users\Beam\source\repos\Mango\Mango.Web\bin\Debug\net8.0\Beam.Web.deps.json
+C:\Users\Beam\source\repos\Mango\Mango.Web\bin\Debug\net8.0\Beam.Web.runtimeconfig.json
+C:\Users\Beam\source\repos\Mango\Mango.Web\bin\Debug\net8.0\Beam.Web.dll
+C:\Users\Beam\source\repos\Mango\Mango.Web\bin\Debug\net8.0\Beam.Web.pdb
+C:\Users\Beam\source\repos\Mango\Mango.Web\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\Beam\source\repos\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Beam\source\repos\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Beam\source\repos\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Beam\source\repos\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Beam\source\repos\Mango\Mango.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Beam\source\repos\Mango\Mango.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\Beam.Web.csproj.AssemblyReference.cache
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\Beam.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\Beam.Web.AssemblyInfoInputs.cache
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\Beam.Web.AssemblyInfo.cs
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\Beam.Web.csproj.CoreCompileInputs.cache
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\Beam.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\Beam.Web.RazorAssemblyInfo.cache
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\Beam.Web.RazorAssemblyInfo.cs
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\staticwebassets\msbuild.Beam.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Beam.Web.props
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Beam.Web.props
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Beam.Web.props
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\scopedcss\bundle\Beam.Web.styles.css
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\scopedcss\projectbundle\Beam.Web.bundle.scp.css
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\Beam.Web.csproj.CopyComplete
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\Beam.Web.dll
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\refint\Beam.Web.dll
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\Beam.Web.pdb
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\Beam.Web.genruntimeconfig.cache
+C:\Users\Beam\source\repos\Mango\Mango.Web\obj\Debug\net8.0\ref\Beam.Web.dll
+C:\Users\Beam\source\repos\Beam\Beam.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Beam\source\repos\Beam\Beam.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\Beam\source\repos\Beam\Beam.Web\bin\Debug\net8.0\Beam.Web.staticwebassets.runtime.json
+C:\Users\Beam\source\repos\Beam\Beam.Web\bin\Debug\net8.0\Beam.Web.exe
+C:\Users\Beam\source\repos\Beam\Beam.Web\bin\Debug\net8.0\Beam.Web.deps.json
+C:\Users\Beam\source\repos\Beam\Beam.Web\bin\Debug\net8.0\Beam.Web.runtimeconfig.json
+C:\Users\Beam\source\repos\Beam\Beam.Web\bin\Debug\net8.0\Beam.Web.dll
+C:\Users\Beam\source\repos\Beam\Beam.Web\bin\Debug\net8.0\Beam.Web.pdb
+C:\Users\Beam\source\repos\Beam\Beam.Web\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\Beam\source\repos\Beam\Beam.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Beam\source\repos\Beam\Beam.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Beam\source\repos\Beam\Beam.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Beam\source\repos\Beam\Beam.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Beam\source\repos\Beam\Beam.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Beam\source\repos\Beam\Beam.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.csproj.AssemblyReference.cache
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.AssemblyInfoInputs.cache
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.AssemblyInfo.cs
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.csproj.CoreCompileInputs.cache
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.RazorAssemblyInfo.cache
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.RazorAssemblyInfo.cs
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets\msbuild.Beam.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Beam.Web.props
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Beam.Web.props
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Beam.Web.props
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\scopedcss\bundle\Beam.Web.styles.css
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\scopedcss\projectbundle\Beam.Web.bundle.scp.css
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.csproj.CopyComplete
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.dll
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\refint\Beam.Web.dll
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.pdb
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.genruntimeconfig.cache
+C:\Users\Beam\source\repos\Beam\Beam.Web\obj\Debug\net8.0\ref\Beam.Web.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\bin\Debug\net8.0\appsettings.json
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\bin\Debug\net8.0\Beam.Web.staticwebassets.runtime.json
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\bin\Debug\net8.0\Beam.Web.exe
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\bin\Debug\net8.0\Beam.Web.deps.json
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\bin\Debug\net8.0\Beam.Web.runtimeconfig.json
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\bin\Debug\net8.0\Beam.Web.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\bin\Debug\net8.0\Beam.Web.pdb
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\bin\Debug\net8.0\IdentityModel.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.csproj.AssemblyReference.cache
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.AssemblyInfoInputs.cache
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.AssemblyInfo.cs
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.csproj.CoreCompileInputs.cache
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.RazorAssemblyInfo.cache
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.RazorAssemblyInfo.cs
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets\msbuild.Beam.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Beam.Web.props
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Beam.Web.props
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Beam.Web.props
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\scopedcss\bundle\Beam.Web.styles.css
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\scopedcss\projectbundle\Beam.Web.bundle.scp.css
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.csproj.CopyComplete
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\refint\Beam.Web.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.pdb
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.genruntimeconfig.cache
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\ref\Beam.Web.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PNyfEyAjuuNP75nciiXw0fgxVEzwjDshtQpG7MJdMxY=",
+  "Source": "Beam.Services.ShoppingCartAPI",
+  "BasePath": "_content/Beam.Services.ShoppingCartAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

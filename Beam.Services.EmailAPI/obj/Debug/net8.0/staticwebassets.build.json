@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2ZAu2KIsPWsQM1svEwlMA8SdhedLQSkByWZ1Dc/1dYA=",
+  "Source": "Beam.Services.EmailAPI",
+  "BasePath": "_content/Beam.Services.EmailAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Beam.Services.CouponAPI.props" />
+</Project>
