@@ -30,6 +30,7 @@ C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Messa
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.AssemblyInfoInputs.cache
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.AssemblyInfo.cs
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.csproj.CoreCompileInputs.cache
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.sourcelink.json
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.dll
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\obj\Debug\net8.0\refint\Beam.MessageBus.dll
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.MessageBus\obj\Debug\net8.0\Beam.MessageBus.pdb

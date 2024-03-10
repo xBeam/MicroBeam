@@ -410,6 +410,7 @@ C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Servi
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.CouponAPI\obj\Debug\net8.0\Beam.Services.CouponAPI.csproj.CoreCompileInputs.cache
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.CouponAPI\obj\Debug\net8.0\Beam.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.CouponAPI\obj\Debug\net8.0\Beam.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.CouponAPI\obj\Debug\net8.0\Beam.Services.CouponAPI.sourcelink.json
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.CouponAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.CouponAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.CouponAPI\obj\Debug\net8.0\staticwebassets\msbuild.Beam.Services.CouponAPI.Microsoft.AspNetCore.StaticWebAssets.props

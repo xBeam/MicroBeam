@@ -404,6 +404,7 @@ C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Servi
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ProductAPI\obj\Debug\net8.0\Beam.Services.ProductAPI.csproj.CoreCompileInputs.cache
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ProductAPI\obj\Debug\net8.0\Beam.Services.ProductAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ProductAPI\obj\Debug\net8.0\Beam.Services.ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ProductAPI\obj\Debug\net8.0\Beam.Services.ProductAPI.sourcelink.json
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ProductAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ProductAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ProductAPI\obj\Debug\net8.0\staticwebassets\msbuild.Beam.Services.ProductAPI.Microsoft.AspNetCore.StaticWebAssets.props

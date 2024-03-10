@@ -416,6 +416,7 @@ C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Servi
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.EmailAPI\obj\Debug\net8.0\Beam.Services.EmailAPI.csproj.CoreCompileInputs.cache
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.EmailAPI\obj\Debug\net8.0\Beam.Services.EmailAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.EmailAPI\obj\Debug\net8.0\Beam.Services.EmailAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.EmailAPI\obj\Debug\net8.0\Beam.Services.EmailAPI.sourcelink.json
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.EmailAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.EmailAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.EmailAPI\obj\Debug\net8.0\staticwebassets\msbuild.Beam.Services.EmailAPI.Microsoft.AspNetCore.StaticWebAssets.props

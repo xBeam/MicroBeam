@@ -99,6 +99,7 @@ C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\o
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.RazorAssemblyInfo.cache
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.RazorAssemblyInfo.cs
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\Beam.Web.sourcelink.json
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets.build.json
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets.development.json
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Web\obj\Debug\net8.0\staticwebassets\msbuild.Beam.Web.Microsoft.AspNetCore.StaticWebAssets.props

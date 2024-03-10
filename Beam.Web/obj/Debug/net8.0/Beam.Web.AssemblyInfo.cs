@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Beam.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84a146ae0c2297fa5ff69bbf0bcedc06a7d8cbb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Beam.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Beam.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

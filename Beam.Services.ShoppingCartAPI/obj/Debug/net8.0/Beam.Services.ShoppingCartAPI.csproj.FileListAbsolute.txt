@@ -276,6 +276,7 @@ C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Servi
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\obj\Debug\net8.0\Beam.Services.ShoppingCartAPI.csproj.CoreCompileInputs.cache
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\obj\Debug\net8.0\Beam.Services.ShoppingCartAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\obj\Debug\net8.0\Beam.Services.ShoppingCartAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\obj\Debug\net8.0\Beam.Services.ShoppingCartAPI.sourcelink.json
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\obj\Debug\net8.0\staticwebassets\msbuild.Beam.Services.ShoppingCartAPI.Microsoft.AspNetCore.StaticWebAssets.props
