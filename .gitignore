@@ -97,3 +97,10 @@ artifacts/
 *.user
 *.userosscache
 *.sln.docstates
+
+# Ignore Debug folder
+Debug/
+
+# Ignore .dll and .pdb files
+*.dll
+*.pdb
