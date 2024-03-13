@@ -19,7 +19,8 @@ namespace Beam.Web.Service
             {
                 ApiType = SD.ApiType.POST,
                 Data = productDto,
-                Url = SD.ProductApiBase + "/api/Product/"
+                Url = SD.ProductApiBase + "/api/Product/",
+                ContentType = SD.ContentType.MultipartFormData
             });
         }
 
@@ -65,7 +66,8 @@ namespace Beam.Web.Service
             {
                 ApiType = SD.ApiType.PUT,
                 Data = productDto,
-                Url = SD.ProductApiBase + "/api/Product/"
+                Url = SD.ProductApiBase + "/api/Product/",
+                ContentType = SD.ContentType.MultipartFormData
             });
         }
     }

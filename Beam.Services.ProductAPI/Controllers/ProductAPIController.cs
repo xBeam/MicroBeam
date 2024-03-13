@@ -4,6 +4,7 @@ using Beam.Services.ProductAPI.Models;
 using Beam.Services.ProductAPI.Models.DTO;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Net.WebSockets;
 
 namespace Beam.Services.ProductAPI.Controllers
 {
@@ -74,15 +75,35 @@ namespace Beam.Services.ProductAPI.Controllers
 
         [HttpPost]
         [Authorize(Roles = "ADMIN")]
-        public ResponseDto Post([FromBody] ProductDto productDTO)
+        public ResponseDto Post(ProductDto productDTO)
         {
             try
             {
-                Product obj = _mapper.Map<Product>(productDTO);
-                _db.Products.Add(obj);
+                Product product = _mapper.Map<Product>(productDTO);
+                _db.Products.Add(product);
                 _db.SaveChanges();
 
-                _response.Result = _mapper.Map<ProductDto>(obj);
+                if (productDTO.Image != null)
+                {
+                    string fileName = product.ProductId + Path.GetExtension(productDTO.Image.FileName);
+                    string filePath = @"wwwroot\ProductImages\" + fileName;
+                    var filePathDirectory = Path.Combine(Directory.GetCurrentDirectory(), filePath);
+                    using (var fileStream = new FileStream(filePathDirectory, FileMode.Create))
+                    {
+                        productDTO.Image.CopyTo(fileStream);
+                    }
+                    var baseUrl = $"{HttpContext.Request.Scheme}://{HttpContext.Request.Host.Value}{HttpContext.Request.PathBase.Value}";
+                    product.ImageUrl = baseUrl + "/ProductImages/" + fileName;
+                    product.ImageLocalPath = filePath;
+                }
+                else
+                {
+                    product.ImageUrl = "https://placehold.co/600x400";
+                }
+                _db.Products.Update(product);
+                _db.SaveChanges();
+
+                _response.Result = _mapper.Map<ProductDto>(product);
             }
             catch (Exception ex)
             {
@@ -94,15 +115,40 @@ namespace Beam.Services.ProductAPI.Controllers
 
         [HttpPut]
         [Authorize(Roles = "ADMIN")]
-        public ResponseDto Put([FromBody] ProductDto productDTO)
+        public ResponseDto Put(ProductDto productDTO)
         {
             try
             {
-                Product obj = _mapper.Map<Product>(productDTO);
-                _db.Products.Update(obj);
+                Product product = _mapper.Map<Product>(productDTO);
+
+                if (productDTO.Image != null)
+                {
+                    if (!string.IsNullOrEmpty(product.ImageLocalPath))
+                    {
+                        var oldFilePathFolder = Path.Combine(Directory.GetCurrentDirectory(), product.ImageLocalPath);
+                        FileInfo file = new FileInfo(oldFilePathFolder);
+                        if (file.Exists)
+                        {
+                            file.Delete();
+                        }
+                    }
+
+                    string fileName = product.ProductId + Path.GetExtension(productDTO.Image.FileName);
+                    string filePath = @"wwwroot\ProductImages\" + fileName;
+                    var filePathDirectory = Path.Combine(Directory.GetCurrentDirectory(), filePath);
+                    using (var fileStream = new FileStream(filePathDirectory, FileMode.Create))
+                    {
+                        productDTO.Image.CopyTo(fileStream);
+                    }
+                    var baseUrl = $"{HttpContext.Request.Scheme}://{HttpContext.Request.Host.Value}{HttpContext.Request.PathBase.Value}";
+                    product.ImageUrl = baseUrl + "/ProductImages/" + fileName;
+                    product.ImageLocalPath = filePath;
+                }
+
+                _db.Products.Update(product);
                 _db.SaveChanges();
 
-                _response.Result = _mapper.Map<ProductDto>(obj);
+                _response.Result = _mapper.Map<ProductDto>(product);
             }
             catch (Exception ex)
             {
@@ -120,6 +166,17 @@ namespace Beam.Services.ProductAPI.Controllers
             try
             {
                 Product obj = _db.Products.First(c => c.ProductId == id);
+
+                if (!string.IsNullOrEmpty(obj.ImageLocalPath))
+                {
+                    var oldFilePathFolder = Path.Combine(Directory.GetCurrentDirectory(), obj.ImageLocalPath);
+                    FileInfo file = new FileInfo(oldFilePathFolder);
+                    if (file.Exists)
+                    {
+                        file.Delete();
+                    }
+                }
+
                 _db.Products.Remove(obj);
                 _db.SaveChanges();
             }
