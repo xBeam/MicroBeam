@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Beam.Services.CouponAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21191eb8e82004b710eac7768e490ff6d70c5833")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a1f3e05d4b875f5d820b3c1f0e4ac3b97fcb7a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Beam.Services.CouponAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Beam.Services.CouponAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

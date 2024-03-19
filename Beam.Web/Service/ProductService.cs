@@ -19,7 +19,7 @@ namespace Beam.Web.Service
             {
                 ApiType = SD.ApiType.POST,
                 Data = productDto,
-                Url = SD.ProductApiBase + "/api/Product/",
+                Url = SD.ProductApiBase + "/api/product/CreateProduct",
                 ContentType = SD.ContentType.MultipartFormData
             });
         }
@@ -29,7 +29,7 @@ namespace Beam.Web.Service
             return await _baseService.SendAsync(new RequestDto()
             {
                 ApiType = SD.ApiType.DELETE,
-                Url = SD.ProductApiBase + "/api/Product/" + id
+                Url = SD.ProductApiBase + "/api/product/" + id
             });
         }
 
@@ -38,7 +38,7 @@ namespace Beam.Web.Service
             return await _baseService.SendAsync(new RequestDto()
             {
                 ApiType = SD.ApiType.GET,
-                Url = SD.ProductApiBase + "/api/Product/"
+                Url = SD.ProductApiBase + "/api/product/"
             });
         }
 
@@ -47,7 +47,7 @@ namespace Beam.Web.Service
             return await _baseService.SendAsync(new RequestDto()
             {
                 ApiType = SD.ApiType.GET,
-                Url = SD.ProductApiBase + "/api/Product/GetByName/" + productName
+                Url = SD.ProductApiBase + "/api/product/GetByName/" + productName
             });
         }
 
@@ -56,7 +56,7 @@ namespace Beam.Web.Service
             return await _baseService.SendAsync(new RequestDto()
             {
                 ApiType = SD.ApiType.GET,
-                Url = SD.ProductApiBase + "/api/Product/" + id
+                Url = SD.ProductApiBase + "/api/product/" + id
             });
         }
 
@@ -66,7 +66,7 @@ namespace Beam.Web.Service
             {
                 ApiType = SD.ApiType.PUT,
                 Data = productDto,
-                Url = SD.ProductApiBase + "/api/Product/",
+                Url = SD.ProductApiBase + "/api/product/UpdateProduct",
                 ContentType = SD.ContentType.MultipartFormData
             });
         }

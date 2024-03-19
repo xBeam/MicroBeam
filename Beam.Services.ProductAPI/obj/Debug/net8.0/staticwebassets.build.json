@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oJjcFBDb/8fD4gpIaiZOieuoYDyJO4bNHfgH9pjYWRY=",
+  "Hash": "c+oE4ZldYZu4L6sIadkeVuF/JEP2Du/OYuXbOUadnGo=",
   "Source": "Beam.Services.ProductAPI",
   "BasePath": "_content/Beam.Services.ProductAPI",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Personal\\PROJECTS\\Programming\\.NET Microservices Udemy course\\Beam\\Beam.Services.ProductAPI\\wwwroot\\ProductImages\\8.png",
+      "Identity": "C:\\Personal\\PROJECTS\\Programming\\.NET Microservices Udemy course\\Beam\\Beam.Services.ProductAPI\\wwwroot\\ProductImages\\11.jpg",
       "SourceId": "Beam.Services.ProductAPI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Personal\\PROJECTS\\Programming\\.NET Microservices Udemy course\\Beam\\Beam.Services.ProductAPI\\wwwroot\\",
       "BasePath": "_content/Beam.Services.ProductAPI",
-      "RelativePath": "ProductImages/8.png",
+      "RelativePath": "ProductImages/11.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,7 +33,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductImages\\8.png"
+      "OriginalItemSpec": "wwwroot\\ProductImages\\11.jpg"
+    },
+    {
+      "Identity": "C:\\Personal\\PROJECTS\\Programming\\.NET Microservices Udemy course\\Beam\\Beam.Services.ProductAPI\\wwwroot\\ProductImages\\8.webp",
+      "SourceId": "Beam.Services.ProductAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Personal\\PROJECTS\\Programming\\.NET Microservices Udemy course\\Beam\\Beam.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/Beam.Services.ProductAPI",
+      "RelativePath": "ProductImages/8.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImages\\8.webp"
     }
   ]
 }

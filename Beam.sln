@@ -34,6 +34,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beam.GatewaySolution", "Beam.GatewaySolution\Beam.GatewaySolution.csproj", "{C588951A-C26B-434F-853B-2E689BCFE8CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -76,6 +78,10 @@ Global
 		{26F54D80-8222-4D24-82CD-7F9AECFC7129}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26F54D80-8222-4D24-82CD-7F9AECFC7129}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26F54D80-8222-4D24-82CD-7F9AECFC7129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C588951A-C26B-434F-853B-2E689BCFE8CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C588951A-C26B-434F-853B-2E689BCFE8CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C588951A-C26B-434F-853B-2E689BCFE8CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C588951A-C26B-434F-853B-2E689BCFE8CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +96,7 @@ Global
 		{28E8750F-C3FF-4650-946D-20D414F6F5E4} = {5CA3F8C8-24E7-48AC-BB93-D55533E7E702}
 		{8901E5ED-816E-4C50-A310-CC3EB5BE05FD} = {5CA3F8C8-24E7-48AC-BB93-D55533E7E702}
 		{26F54D80-8222-4D24-82CD-7F9AECFC7129} = {5CA3F8C8-24E7-48AC-BB93-D55533E7E702}
+		{C588951A-C26B-434F-853B-2E689BCFE8CD} = {2644A4CC-F717-49E0-8302-F23BD4FC2F21}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {468EF2C5-2A71-4B41-BAFA-94E6B3BAEDC6}

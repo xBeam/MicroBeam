@@ -73,24 +73,24 @@ namespace Beam.Services.ProductAPI.Controllers
             return _response;
         }
 
-        [HttpPost]
+        [HttpPost("CreateProduct")]
         [Authorize(Roles = "ADMIN")]
-        public ResponseDto Post(ProductDto productDTO)
+        public ResponseDto CreateProduct(ProductDto productDto)
         {
             try
             {
-                Product product = _mapper.Map<Product>(productDTO);
+                Product product = _mapper.Map<Product>(productDto);
                 _db.Products.Add(product);
                 _db.SaveChanges();
 
-                if (productDTO.Image != null)
+                if (productDto.Image != null)
                 {
-                    string fileName = product.ProductId + Path.GetExtension(productDTO.Image.FileName);
+                    string fileName = product.ProductId + Path.GetExtension(productDto.Image.FileName);
                     string filePath = @"wwwroot\ProductImages\" + fileName;
                     var filePathDirectory = Path.Combine(Directory.GetCurrentDirectory(), filePath);
                     using (var fileStream = new FileStream(filePathDirectory, FileMode.Create))
                     {
-                        productDTO.Image.CopyTo(fileStream);
+                        productDto.Image.CopyTo(fileStream);
                     }
                     var baseUrl = $"{HttpContext.Request.Scheme}://{HttpContext.Request.Host.Value}{HttpContext.Request.PathBase.Value}";
                     product.ImageUrl = baseUrl + "/ProductImages/" + fileName;
@@ -113,15 +113,15 @@ namespace Beam.Services.ProductAPI.Controllers
             return _response;
         }
 
-        [HttpPut]
+        [HttpPut("UpdateProduct")]
         [Authorize(Roles = "ADMIN")]
-        public ResponseDto Put(ProductDto productDTO)
+        public ResponseDto UpdateProduct(ProductDto productDto)
         {
             try
             {
-                Product product = _mapper.Map<Product>(productDTO);
+                Product product = _mapper.Map<Product>(productDto);
 
-                if (productDTO.Image != null)
+                if (productDto.Image != null)
                 {
                     if (!string.IsNullOrEmpty(product.ImageLocalPath))
                     {
@@ -133,12 +133,12 @@ namespace Beam.Services.ProductAPI.Controllers
                         }
                     }
 
-                    string fileName = product.ProductId + Path.GetExtension(productDTO.Image.FileName);
+                    string fileName = product.ProductId + Path.GetExtension(productDto.Image.FileName);
                     string filePath = @"wwwroot\ProductImages\" + fileName;
                     var filePathDirectory = Path.Combine(Directory.GetCurrentDirectory(), filePath);
                     using (var fileStream = new FileStream(filePathDirectory, FileMode.Create))
                     {
-                        productDTO.Image.CopyTo(fileStream);
+                        productDto.Image.CopyTo(fileStream);
                     }
                     var baseUrl = $"{HttpContext.Request.Scheme}://{HttpContext.Request.Host.Value}{HttpContext.Request.PathBase.Value}";
                     product.ImageUrl = baseUrl + "/ProductImages/" + fileName;
@@ -159,9 +159,9 @@ namespace Beam.Services.ProductAPI.Controllers
         }
 
         [HttpDelete]
-        [Route("{id:int}")]
+        [Route("DeleteProduct/{id:int}")]
         [Authorize(Roles = "ADMIN")]
-        public ResponseDto Delete(int id)
+        public ResponseDto DeleteProduct(int id)
         {
             try
             {
