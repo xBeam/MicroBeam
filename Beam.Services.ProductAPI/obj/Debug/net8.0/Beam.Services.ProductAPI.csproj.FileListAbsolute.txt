@@ -420,3 +420,4 @@ C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Servi
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ProductAPI\obj\Debug\net8.0\Beam.Services.ProductAPI.genruntimeconfig.cache
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ProductAPI\obj\Debug\net8.0\ref\Beam.Services.ProductAPI.dll
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ProductAPI\bin\Debug\net8.0\Beam.Services.ProductAPI.staticwebassets.runtime.json
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ProductAPI\bin\Debug\net8.0\appsettings.Production.json

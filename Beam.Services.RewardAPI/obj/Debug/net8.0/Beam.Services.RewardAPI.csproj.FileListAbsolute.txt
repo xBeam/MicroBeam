@@ -431,3 +431,4 @@ C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Servi
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.RewardAPI\obj\Debug\net8.0\Beam.Services.RewardAPI.pdb
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.RewardAPI\obj\Debug\net8.0\Beam.Services.RewardAPI.genruntimeconfig.cache
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.RewardAPI\obj\Debug\net8.0\ref\Beam.Services.RewardAPI.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.RewardAPI\bin\Debug\net8.0\appsettings.Production.json

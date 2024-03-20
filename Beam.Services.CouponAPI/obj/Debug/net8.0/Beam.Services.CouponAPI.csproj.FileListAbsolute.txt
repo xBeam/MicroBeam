@@ -425,3 +425,4 @@ C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Servi
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.CouponAPI\obj\Debug\net8.0\Beam.Services.CouponAPI.pdb
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.CouponAPI\obj\Debug\net8.0\Beam.Services.CouponAPI.genruntimeconfig.cache
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.CouponAPI\obj\Debug\net8.0\ref\Beam.Services.CouponAPI.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.CouponAPI\bin\Debug\net8.0\appsettings.Production.json

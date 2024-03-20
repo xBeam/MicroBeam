@@ -293,3 +293,4 @@ C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Servi
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.OrderAPI\obj\Debug\net8.0\Beam.Services.OrderAPI.pdb
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.OrderAPI\obj\Debug\net8.0\Beam.Services.OrderAPI.genruntimeconfig.cache
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.OrderAPI\obj\Debug\net8.0\ref\Beam.Services.OrderAPI.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.OrderAPI\bin\Debug\net8.0\appsettings.Production.json

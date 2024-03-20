@@ -38,6 +38,14 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+//TODO change app.UseSwagger(); and app.UseSwaggerUI(); to use in Production + Publish
+//app.UseSwagger();
+//app.UseSwaggerUI(c =>
+//{
+//    c.SwaggerEndpoint("/swagger/v1/swagger.json", "AUTH API");
+//    c.RoutePrefix = string.Empty;
+//});
+
 app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();

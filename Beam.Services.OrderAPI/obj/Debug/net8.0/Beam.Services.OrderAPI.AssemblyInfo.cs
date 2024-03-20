@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Beam.Services.OrderAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a1f3e05d4b875f5d820b3c1f0e4ac3b97fcb7a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6660477f14177bcdad5301cf12e2eef71c7744ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("Beam.Services.OrderAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Beam.Services.OrderAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
