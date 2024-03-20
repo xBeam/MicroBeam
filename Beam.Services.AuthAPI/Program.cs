@@ -1,6 +1,7 @@
 using Beam.MessageBus;
 using Beam.Services.AuthAPI.Data;
 using Beam.Services.AuthAPI.Models;
+using Beam.Services.AuthAPI.RabbitMQSender;
 using Beam.Services.AuthAPI.Service;
 using Beam.Services.AuthAPI.Service.IService;
 using Microsoft.AspNetCore.Identity;
@@ -23,7 +24,8 @@ builder.Services.AddControllers();
 
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IJwtTokenGenerator, JwtTokenGenerator>();
-builder.Services.AddScoped<IMessageBus, MessageBus>();
+builder.Services.AddScoped<IRabbitMQAuthMessageSender, RabbitMQAuthMessageSender>();
+//builder.Services.AddScoped<IMessageBus, MessageBus>();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
