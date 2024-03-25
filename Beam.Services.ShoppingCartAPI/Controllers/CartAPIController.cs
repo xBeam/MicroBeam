@@ -3,6 +3,7 @@ using Beam.MessageBus;
 using Beam.Services.ShoppingCartAPI.Data;
 using Beam.Services.ShoppingCartAPI.Models;
 using Beam.Services.ShoppingCartAPI.Models.Dto;
+using Beam.Services.ShoppingCartAPI.RabbitMQSender;
 using Beam.Services.ShoppingCartAPI.Service.IService;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -19,10 +20,11 @@ namespace Beam.Services.ShoppingCartAPI.Controllers
         private IProductService _productService;
         private ICouponService _couponService;
         private IConfiguration _configuration;
-        private readonly IMessageBus _messageBus;
+        //private readonly IMessageBus _messageBus;
+        private readonly IRabbitMQCartMessageSender _messageBus;
 
         public CartAPIController(AppDbContext db, 
-            IMapper mapper, IProductService productService, ICouponService couponService, IMessageBus messageBus,
+            IMapper mapper, IProductService productService, ICouponService couponService, IRabbitMQCartMessageSender messageBus,
             IConfiguration configuration)
         {
             _db = db;
@@ -195,7 +197,10 @@ namespace Beam.Services.ShoppingCartAPI.Controllers
         {
             try
             {
-                await _messageBus.PublishMessage(cartDto, _configuration.GetValue<string>("TopicAndQueueNames:EmailShoppingCartQueue"));
+                //await _messageBus.PublishMessage(cartDto, _configuration.GetValue<string>("TopicAndQueueNames:EmailShoppingCartQueue"));
+
+                // Using RabbitMQ instead of the message bus
+                _messageBus.SendMessage(cartDto, _configuration.GetValue<string>("TopicAndQueueNames:EmailShoppingCartQueue")); 
                 _response.Result = true;
             }
             catch (Exception ex)

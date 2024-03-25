@@ -292,3 +292,15 @@ C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Servi
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\obj\Debug\net8.0\Beam.Services.ShoppingCartAPI.genruntimeconfig.cache
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\obj\Debug\net8.0\ref\Beam.Services.ShoppingCartAPI.dll
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\bin\Debug\net8.0\appsettings.Production.json
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\bin\Debug\net8.0\Beam.Services.AuthAPI.deps.json
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\bin\Debug\net8.0\Beam.Services.AuthAPI.runtimeconfig.json
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\bin\Debug\net8.0\Beam.Services.AuthAPI.exe
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\bin\Debug\net8.0\Beam.Services.AuthAPI.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\bin\Debug\net8.0\Beam.Services.AuthAPI.pdb
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\bin\Debug\net8.0\Beam.Services.EmailAPI.deps.json
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\bin\Debug\net8.0\Beam.Services.EmailAPI.runtimeconfig.json
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\bin\Debug\net8.0\Beam.Services.EmailAPI.exe
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\bin\Debug\net8.0\Beam.Services.EmailAPI.dll
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.ShoppingCartAPI\bin\Debug\net8.0\Beam.Services.EmailAPI.pdb

@@ -1,6 +1,8 @@
-﻿
-using Beam.Services.EmailAPI.Services;
+﻿using Beam.Services.EmailAPI.Services;
+using Newtonsoft.Json;
 using RabbitMQ.Client;
+using RabbitMQ.Client.Events;
+using System.Text;
 
 namespace Beam.Services.EmailAPI.Messaging
 {
@@ -24,12 +26,31 @@ namespace Beam.Services.EmailAPI.Messaging
             _connection = factory.CreateConnection();
             _channel = _connection.CreateModel();
             _channel.QueueDeclare(_configuration.GetValue<string>("TopicAndQueueNames:RegisterUserQueue"),
-                false, false, false, null); 
+                false, false, false, null);
         }
 
         protected override Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            throw new NotImplementedException();
+            stoppingToken.ThrowIfCancellationRequested();
+
+            var consumer = new EventingBasicConsumer(_channel);
+            consumer.Received += (ch, ea) =>
+            {
+                var content = Encoding.UTF8.GetString(ea.Body.ToArray());
+                string email = JsonConvert.DeserializeObject<string>(content);
+                HandleMessage(email).GetAwaiter().GetResult();
+
+                _channel.BasicAck(ea.DeliveryTag, false);
+            };
+
+            _channel.BasicConsume(_configuration.GetValue<string>("TopicAndQueueNames:RegisterUserQueue"), false, consumer);
+
+            return Task.CompletedTask;
+        }
+
+        private async Task HandleMessage(string email)
+        {
+            _emailService.RegisterUserEmailAndLog(email).GetAwaiter().GetResult();
         }
     }
 }

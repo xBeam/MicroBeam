@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Beam.MessageBus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a1f3e05d4b875f5d820b3c1f0e4ac3b97fcb7a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecb2dcdb35bd5189b14382914e0a8a9259d9ad14")]
 [assembly: System.Reflection.AssemblyProductAttribute("Beam.MessageBus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Beam.MessageBus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

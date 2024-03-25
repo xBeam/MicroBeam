@@ -432,3 +432,4 @@ C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Servi
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.EmailAPI\obj\Debug\net8.0\Beam.Services.EmailAPI.genruntimeconfig.cache
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.EmailAPI\obj\Debug\net8.0\ref\Beam.Services.EmailAPI.dll
 C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.EmailAPI\bin\Debug\net8.0\appsettings.Production.json
+C:\Personal\PROJECTS\Programming\.NET Microservices Udemy course\Beam\Beam.Services.EmailAPI\bin\Debug\net8.0\RabbitMQ.Client.dll

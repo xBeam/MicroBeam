@@ -1,11 +1,34 @@
 {
   "Version": 1,
-  "Hash": "PNyfEyAjuuNP75nciiXw0fgxVEzwjDshtQpG7MJdMxY=",
+  "Hash": "QpvzLmaZXNrIphf+66SvqQf3UfYWGbbiXt7XB/jArjo=",
   "Source": "Beam.Services.ShoppingCartAPI",
   "BasePath": "_content/Beam.Services.ShoppingCartAPI",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Personal\\PROJECTS\\Programming\\.NET Microservices Udemy course\\Beam\\Beam.Services.AuthAPI\\Beam.Services.AuthAPI.csproj",
+      "Version": 2,
+      "Source": "Beam.Services.AuthAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "C:\\Personal\\PROJECTS\\Programming\\.NET Microservices Udemy course\\Beam\\Beam.Services.EmailAPI\\Beam.Services.EmailAPI.csproj",
+      "Version": 2,
+      "Source": "Beam.Services.EmailAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [],
   "Assets": []
 }

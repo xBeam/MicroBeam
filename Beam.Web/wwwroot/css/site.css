@@ -17,6 +17,26 @@ html {
   min-height: 100%;
 }
 
+
+/* Modified default bootstrap theme*/
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-color: #003b49;
+}
+
+.bg-dark {
+    background-color: #003b49;
+}
+
+.card {
+    --bs-card-bg: #0e5965;
+}
+
+.btn {
+    background-image: linear-gradient(160deg,#40e0d0 0%,#003b49 100%);
+    border-color: #09e1c0;
+}
+
+.btn-success {
+    --bs-btn-hover-bg: linear-gradient(320deg,#40e0d0 0%,#003b49 100%);
 }

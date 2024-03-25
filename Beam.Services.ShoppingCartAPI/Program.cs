@@ -3,6 +3,7 @@ using Beam.MessageBus;
 using Beam.Services.ShoppingCartAPI;
 using Beam.Services.ShoppingCartAPI.Data;
 using Beam.Services.ShoppingCartAPI.Extensions;
+using Beam.Services.ShoppingCartAPI.RabbitMQSender;
 using Beam.Services.ShoppingCartAPI.Service;
 using Beam.Services.ShoppingCartAPI.Service.IService;
 using Beam.Services.ShoppingCartAPI.Utility;
@@ -32,7 +33,8 @@ builder.Services.AddHttpClient("Coupon", c => c.BaseAddress =
 
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICouponService, CouponService>();
-builder.Services.AddScoped<IMessageBus, MessageBus>();
+builder.Services.AddScoped<IRabbitMQCartMessageSender, RabbitMQCartMessageSender>();
+//builder.Services.AddScoped<IMessageBus, MessageBus>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
