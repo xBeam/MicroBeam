@@ -4,6 +4,7 @@ using Beam.MessageBus;
 using Beam.Services.OrderAPI.Data;
 using Beam.Services.OrderAPI.Models;
 using Beam.Services.OrderAPI.Models.Dto;
+using Beam.Services.OrderAPI.RabbitMQSender;
 using Beam.Services.OrderAPI.Service.IService;
 using Beam.Services.OrderAPI.Utility;
 using Microsoft.AspNetCore.Authorization;
@@ -23,10 +24,11 @@ namespace Beam.Services.OrderAPI.Controllers
         private readonly AppDbContext _db;
         private IProductService _productService;
         private readonly IConfiguration _configuration;
-        private readonly IMessageBus _messageBus;
+        private readonly IRabbitMQOrderMessageSender _messageBus;
+        //private readonly IMessageBus _messageBus;
 
         public OrderAPIController(AppDbContext db, IProductService productService, 
-            IMapper mapper, IConfiguration configuration, IMessageBus messageBus)
+            IMapper mapper, IConfiguration configuration, IRabbitMQOrderMessageSender messageBus)
         {
             _db = db;
             _mapper = mapper;
@@ -200,6 +202,9 @@ namespace Beam.Services.OrderAPI.Controllers
                     // TODO: activate after registration of the message bus
                     string topicName = _configuration.GetValue<string>("TopicAndQueueNames:OrderCreatedTopic");
                     //await _messageBus.PublishMessage(rewardsDto, topicName);
+
+                    //RabbitMQ implementation
+                    _messageBus.SendMessage(rewardsDto, topicName);
 
                     _response.Result = _mapper.Map<OrderHeaderDto>(orderHeader);
                 }

@@ -9,6 +9,7 @@ using Beam.Services.OrderAPI.Service.IService;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
+using Beam.Services.OrderAPI.RabbitMQSender;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -29,7 +30,8 @@ builder.Services.AddHttpClient("Product", c => c.BaseAddress =
     new Uri(builder.Configuration["ServiceUrls:ProductApi"])).AddHttpMessageHandler<BackendApiAuthenticationHttpClientHandler>();
 
 builder.Services.AddScoped<IProductService, ProductService>();
-builder.Services.AddScoped<IMessageBus, MessageBus>();
+//builder.Services.AddScoped<IMessageBus, MessageBus>();
+builder.Services.AddScoped<IRabbitMQOrderMessageSender, RabbitMQOrderMessageSender>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

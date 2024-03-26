@@ -5,7 +5,6 @@ using Beam.Services.RewardAPI.Models;
 
 namespace Beam.Services.RewardAPI.Services
 {
-
     public class RewardService : IRewardService
     {
         private DbContextOptions<AppDbContext> _dbOptions;
