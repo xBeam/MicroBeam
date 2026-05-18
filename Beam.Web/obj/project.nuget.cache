@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dqu13CLx7cwTUx9Dp1G1pAt0BxiD8EV1w2Gki6vZw8gOmPYmrT1E/BbRN6krntHBisr66knxNQS8+A/7CO+46Q==",
+  "dgSpecHash": "mcvCwnlTxNc=",
   "success": true,
   "projectFilePath": "C:\\Personal\\PROJECTS\\Programming\\.NET Microservices Udemy course\\Beam\\Beam.Web\\Beam.Web.csproj",
   "expectedPackageFiles": [
@@ -18,16 +18,6 @@
       "level": "Warning",
       "warningLevel": 1,
       "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "libraryId": "System.IdentityModel.Tokens.Jwt",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-8g9c-28fc-mcx2",
       "libraryId": "System.IdentityModel.Tokens.Jwt",
       "targetGraphs": [
         "net8.0"
